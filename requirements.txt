@@ -1,0 +1,14 @@
+flask
+requests
+faiss-cpu
+sentence-transformers
+transformers
+peft
+datasets
+accelerate
+torch
+tiktoken
+scikit-learn
+bitsandbytes
+einops
+transformers_stream_generator
